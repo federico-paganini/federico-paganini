@@ -119,15 +119,22 @@ grow, solve real-world problems, and contribute both technically and as a person
 
 <h3 align="center">Stats</h3>
 
-<!-- count_private=true only counts private repos on a self-hosted github-readme-stats instance (phase 2). Harmless on the public one. -->
+<!-- github-profile-summary-cards: public token, counts public repos only. Self-host for private (phase 2). -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=federico-paganini&show_icons=true&count_private=true&hide_border=true&theme=tokyonight">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=federico-paganini&show_icons=true&count_private=true&hide_border=true&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=federico-paganini&theme=github_dark">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=federico-paganini&theme=default">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=federico-paganini&layout=compact&hide_border=true&theme=tokyonight">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federico-paganini&layout=compact&hide_border=true&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=federico-paganini&theme=github_dark">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=federico-paganini&theme=default">
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=federico-paganini&utcOffset=-3&theme=github_dark">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=federico-paganini&utcOffset=-3&theme=default">
   </picture>
 </div>
 
