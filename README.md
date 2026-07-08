@@ -26,45 +26,129 @@ grow, solve real-world problems, and contribute both technically and as a person
   clear domain/application/infrastructure separation, built on **FastAPI**, **MongoDB** and
   **AWS Cognito**, with strong typing via **Pydantic**.
 
-### Stack
+<hr>
 
-**Languages**
+<h3 align="center">Stack</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4B8BBE">
+    <img alt="Python" src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=dotnet&logoColor=8A6FE8">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-ffffff?style=for-the-badge&logo=dotnet&logoColor=512BD4">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=4F9BE0">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=3178C6">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=E6C200">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=6E9FFF">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=4169E1">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC">
+    <img alt="C" src="https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=283593">
+  </picture>
+</div>
 
-**Microsoft &amp; Cloud**
+<br>
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=flat-square&logo=microsoft&logoColor=white)
-![Dataverse](https://img.shields.io/badge/Dataverse-0A2767?style=flat-square&logo=microsoft&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Azure-0d1117?style=flat-square&logo=azure&logoColor=50A6FF">
+    <img alt="Azure" src="https://custom-icon-badges.demolab.com/badge/Azure-ffffff?style=flat-square&logo=azure&logoColor=0078D4">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Power%20Platform-0d1117?style=flat-square&logo=microsoft&logoColor=8A6FE8">
+    <img alt="Power Platform" src="https://img.shields.io/badge/Power%20Platform-ffffff?style=flat-square&logo=microsoft&logoColor=742774">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Dataverse-0d1117?style=flat-square&logo=microsoft&logoColor=4F9BE0">
+    <img alt="Dataverse" src="https://img.shields.io/badge/Dataverse-ffffff?style=flat-square&logo=microsoft&logoColor=0A2767">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Power%20BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C94C">
+    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-ffffff?style=flat-square&logo=powerbi&logoColor=E97627">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Entra%20ID-0d1117?style=flat-square&logo=azure&logoColor=50A6FF">
+    <img alt="Entra ID" src="https://custom-icon-badges.demolab.com/badge/Entra%20ID-ffffff?style=flat-square&logo=azure&logoColor=0078D4">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/AWS-0d1117?style=flat-square&logo=aws&logoColor=FF9F47">
+    <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-ffffff?style=flat-square&logo=aws&logoColor=FF9900">
+  </picture>
+</div>
 
-**Backend &amp; Data**
+<br>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=1AB7A4">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-ffffff?style=flat-square&logo=fastapi&logoColor=009688">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pydantic-0d1117?style=flat-square&logo=pydantic&logoColor=F26B8A">
+    <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-ffffff?style=flat-square&logo=pydantic&logoColor=E92063">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=57C558">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-ffffff?style=flat-square&logo=mongodb&logoColor=47A248">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=6E9FFF">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-ffffff?style=flat-square&logo=postgresql&logoColor=4169E1">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=8798E6">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=docker&logoColor=2496ED">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F0724C">
+    <img alt="Git" src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=F05032">
+  </picture>
+</div>
 
-### Stats
+<hr>
+
+<h3 align="center">Stats</h3>
 
 <!-- count_private=true only counts private repos on a self-hosted github-readme-stats instance (phase 2). Harmless on the public one. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=federico-paganini&show_icons=true&count_private=true&hide_border=true&theme=tokyonight">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=federico-paganini&show_icons=true&count_private=true&hide_border=true&theme=default">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=federico-paganini&layout=compact&hide_border=true&theme=tokyonight">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federico-paganini&layout=compact&hide_border=true&theme=default">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=federico-paganini&show_icons=true&count_private=true&hide_border=true&theme=tokyonight">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=federico-paganini&show_icons=true&count_private=true&hide_border=true&theme=default">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=federico-paganini&layout=compact&hide_border=true&theme=tokyonight">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federico-paganini&layout=compact&hide_border=true&theme=default">
+  </picture>
+</div>
 
-### Contact
+<hr>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-paganini-0451a2297)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:perfedefer@gmail.com)
+<h3 align="center">Contact</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/federico-paganini-0451a2297">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:perfedefer@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffederico-paganini&label=Profile%20views&labelColor=0d1117&countColor=0d1117&style=flat-square&labelTextColor=8A94A6&countTextColor=58A6FF">
+    <img alt="Profile views" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffederico-paganini&label=Profile%20views&labelColor=ffffff&countColor=ffffff&style=flat-square&labelTextColor=57606a&countTextColor=0366d6">
+  </picture>
+</div>
