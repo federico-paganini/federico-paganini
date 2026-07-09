@@ -119,11 +119,10 @@ grow, solve real-world problems, and contribute both technically and as a person
 
 <h3 align="center">Stats</h3>
 
-<!-- github-profile-summary-cards: public token, counts public repos only. Self-host for private (phase 2). -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=federico-paganini&theme=github_dark">
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=federico-paganini&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rust-chi-56.vercel.app/api?username=federico-paganini&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight">
+    <img height="200" src="https://github-readme-stats-rust-chi-56.vercel.app/api?username=federico-paganini&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=federico-paganini&theme=github_dark">
