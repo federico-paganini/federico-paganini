@@ -144,16 +144,20 @@ grow, solve real-world problems, and contribute both technically and as a person
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rust-chi-56.vercel.app/api?username=federico-paganini&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight">
-    <img height="200" src="https://github-readme-stats-rust-chi-56.vercel.app/api?username=federico-paganini&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-frontend-wheat-kappa.vercel.app/api?username=federico-paganini&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight">
+    <img height="200" alt="GitHub stats" src="https://github-stats-extended-frontend-wheat-kappa.vercel.app/api?username=federico-paganini&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rust-chi-56.vercel.app/api/top-langs/?username=federico-paganini&layout=donut&hide_border=true&langs_count=6&exclude_repo=entrega1,entrega2-entrega3,entrega4,entrega5,entrega6,entrega7,entrega8,portfolio-federico,federico-paganini.github.io,panaderia-api,JAPFLIX,buscador-galaxias,code-challenge,listado-grupal,taller-api,taller-eventos-paganini,semana12-desafio,desafio-local-storage,desafio-grupal-semana-7,holbertonschool-web_front_end,holbertonschool-softy-pinko-docker,holbertonschool-zero_day&theme=tokyonight">
-    <img height="200" alt="Top languages" src="https://github-readme-stats-rust-chi-56.vercel.app/api/top-langs/?username=federico-paganini&layout=donut&hide_border=true&langs_count=6&exclude_repo=entrega1,entrega2-entrega3,entrega4,entrega5,entrega6,entrega7,entrega8,portfolio-federico,federico-paganini.github.io,panaderia-api,JAPFLIX,buscador-galaxias,code-challenge,listado-grupal,taller-api,taller-eventos-paganini,semana12-desafio,desafio-local-storage,desafio-grupal-semana-7,holbertonschool-web_front_end,holbertonschool-softy-pinko-docker,holbertonschool-zero_day&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-frontend-wheat-kappa.vercel.app/api/top-langs/?username=federico-paganini&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&layout=donut&hide_border=true&langs_count=6&theme=tokyonight">
+    <img height="200" alt="Top languages" src="https://github-stats-extended-frontend-wheat-kappa.vercel.app/api/top-langs/?username=federico-paganini&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&layout=donut&hide_border=true&langs_count=6&theme=default">
   </picture>
 </div>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-frontend-wheat-kappa.vercel.app/api?username=federico-paganini&owner=Eron-World&show=prs_authored,prs_commented,issues_authored,issues_commented&hide=prs,issues,stars,commits,contribs&hide_rank=true&custom_title=Contributions%20to%20Eron.World&hide_border=true&theme=tokyonight">
+    <img height="200" alt="Contributions to Eron.World" src="https://github-stats-extended-frontend-wheat-kappa.vercel.app/api?username=federico-paganini&owner=Eron-World&show=prs_authored,prs_commented,issues_authored,issues_commented&hide=prs,issues,stars,commits,contribs&hide_rank=true&custom_title=Contributions%20to%20Eron.World&hide_border=true&theme=default">
+  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=federico-paganini&utcOffset=-3&theme=github_dark">
     <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=federico-paganini&utcOffset=-3&theme=default">
