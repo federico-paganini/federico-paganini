@@ -125,16 +125,16 @@ grow, solve real-world problems, and contribute both technically and as a person
 <div align="center">
   <sub>Background:</sub>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Power%20Platform-0d1117?style=flat-square&logo=microsoft&logoColor=8A6FE8">
-    <img alt="Power Platform" src="https://img.shields.io/badge/Power%20Platform-ffffff?style=flat-square&logo=microsoft&logoColor=742774">
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Power%20Platform-0d1117?style=flat-square&logo=powerplatform&logoColor=8A6FE8">
+    <img alt="Power Platform" src="https://custom-icon-badges.demolab.com/badge/Power%20Platform-ffffff?style=flat-square&logo=powerplatform&logoColor=742774">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Dataverse-0d1117?style=flat-square&logo=microsoft&logoColor=4F9BE0">
-    <img alt="Dataverse" src="https://img.shields.io/badge/Dataverse-ffffff?style=flat-square&logo=microsoft&logoColor=0A2767">
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Dataverse-0d1117?style=flat-square&logo=dataverse&logoColor=4F9BE0">
+    <img alt="Dataverse" src="https://custom-icon-badges.demolab.com/badge/Dataverse-ffffff?style=flat-square&logo=dataverse&logoColor=0A2767">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Power%20BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C94C">
-    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-ffffff?style=flat-square&logo=powerbi&logoColor=E97627">
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Power%20BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C94C">
+    <img alt="Power BI" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-ffffff?style=flat-square&logo=powerbi&logoColor=E97627">
   </picture>
 </div>
 
@@ -148,8 +148,8 @@ grow, solve real-world problems, and contribute both technically and as a person
     <img height="200" alt="GitHub stats" src="https://github-stats-extended-frontend-wheat-kappa.vercel.app/api?username=federico-paganini&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-frontend-wheat-kappa.vercel.app/api/top-langs/?username=federico-paganini&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&layout=donut&hide_border=true&langs_count=6&theme=tokyonight">
-    <img height="200" alt="Top languages" src="https://github-stats-extended-frontend-wheat-kappa.vercel.app/api/top-langs/?username=federico-paganini&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&layout=donut&hide_border=true&langs_count=6&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-frontend-wheat-kappa.vercel.app/api/top-langs/?username=federico-paganini&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&layout=donut&hide_border=true&langs_count=6&hide=typescript%2Csvelte&theme=tokyonight">
+    <img height="200" alt="Top languages" src="https://github-stats-extended-frontend-wheat-kappa.vercel.app/api/top-langs/?username=federico-paganini&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&layout=donut&hide_border=true&langs_count=6&hide=typescript%2Csvelte&theme=default">
   </picture>
 </div>
 
