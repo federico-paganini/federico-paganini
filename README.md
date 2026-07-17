@@ -1,14 +1,15 @@
 <h1 align="center">Federico Paganini</h1>
-<p align="center"><b>Backend &amp; Software Architect</b> · Azure · Power Platform · Python</p>
+<p align="center"><b>Backend Engineer & Software Architect</b> · C#/.NET · Azure</p>
 <p align="center">📍 Uruguay</p>
 
 ---
 
 ### About
 
-Developer focused on **software architecture and backend solutions**, currently working within the
-Microsoft ecosystem — **Azure, Power Platform and Dataverse**. I design systems end to end: from the
-data model and business logic to cloud infrastructure and access control.
+Backend engineer focused on **software architecture** — I design systems end to end: domain model,
+business logic, cloud infrastructure, CI/CD and access control. Currently leading the migration of a
+**live construction-management SaaS** from Microsoft PowerPlatform to a containerized
+**C#/.NET backend** on Azure.
 
 I come from a background in **education**, where I learned that teams thrive when there's trust, real
 communication and a good working environment — something I bring to every project. Always looking to
@@ -16,15 +17,19 @@ grow, solve real-world problems, and contribute both technically and as a person
 
 ### What I'm working on
 
-- **Eron.World** — *Backend &amp; Software Architect.* Sole technical owner of the organization's
-  management platform, built from the ground up: a **40+ table** Dataverse schema, business-logic
-  apps in PowerApps (role-based access, approval workflows), automations in Power Automate, Power BI
-  dashboards and Power Pages portals — backed by **Azure Functions**, **Key Vault** and org-wide
-  identity/access management through **Azure Entra ID**.
-- **Spotly** *(Holberton Uruguay)* — *Project Lead &amp; Backend.* Platform to centralize Holberton
-  graduates and match them to job opportunities. Clean Architecture (Onion/Hexagonal influences) with
-  clear domain/application/infrastructure separation, built on **FastAPI**, **MongoDB** and
-  **AWS Cognito**, with strong typing via **Pydantic**.
+- **Eron.World** — *Software Architect & technical owner.* Migrating the organization's management
+  platform — a live product I originally built on PowerPlatform (a **40+ table** Dataverse schema,
+  PowerApps, Power Automate) — to a **.NET 10** backend, feature by feature, with **both backends
+  coexisting in production**: ASP.NET Core + EF Core over Azure SQL, clean architecture with a
+  **compile-time dependency rule** (ports & adapters), CI/CD to **Azure Container Apps**, Managed
+  Identity everywhere (zero committed secrets) and backend-authoritative row-level security.
+- **Spotly** *(Holberton Uruguay)* — *Project Lead & Backend.* Platform to centralize Holberton
+  graduates and match them to job opportunities. **FastAPI** + async **MongoDB**, hexagonal
+  ports & adapters, strong typing with **Pydantic v2**, LLM-powered CV parsing (**Pydantic AI**),
+  Supabase storage, fully Dockerized.
+- **[memory-wrapper](https://github.com/federico-paganini/memory-wrapper)** — released Windows tool
+  that keeps a legacy DOS accounting program alive: runs it in DOSBox-X, captures its printer output
+  and renders each report to PDF. PyQt6, per-module tests, Inno Setup installer.
 
 <hr>
 
@@ -32,12 +37,12 @@ grow, solve real-world problems, and contribute both technically and as a person
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4B8BBE">
-    <img alt="Python" src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB">
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=dotnet&logoColor=8A6FE8">
     <img alt="C#" src="https://img.shields.io/badge/C%23-ffffff?style=for-the-badge&logo=dotnet&logoColor=512BD4">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4B8BBE">
+    <img alt="Python" src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=4F9BE0">
@@ -61,28 +66,32 @@ grow, solve real-world problems, and contribute both technically and as a person
 
 <div align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/.NET%2010-0d1117?style=flat-square&logo=dotnet&logoColor=8A6FE8">
+    <img alt=".NET 10" src="https://img.shields.io/badge/.NET%2010-ffffff?style=flat-square&logo=dotnet&logoColor=512BD4">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ASP.NET%20Core-0d1117?style=flat-square&logo=dotnet&logoColor=8A6FE8">
+    <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-ffffff?style=flat-square&logo=dotnet&logoColor=512BD4">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EF%20Core-0d1117?style=flat-square&logo=dotnet&logoColor=8A6FE8">
+    <img alt="EF Core" src="https://img.shields.io/badge/EF%20Core-ffffff?style=flat-square&logo=dotnet&logoColor=512BD4">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/SQL%20Server-0d1117?style=flat-square&logo=database&logoColor=E8555D">
+    <img alt="SQL Server" src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-ffffff?style=flat-square&logo=database&logoColor=CC2927">
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Azure-0d1117?style=flat-square&logo=azure&logoColor=50A6FF">
     <img alt="Azure" src="https://custom-icon-badges.demolab.com/badge/Azure-ffffff?style=flat-square&logo=azure&logoColor=0078D4">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Power%20Platform-0d1117?style=flat-square&logo=microsoft&logoColor=8A6FE8">
-    <img alt="Power Platform" src="https://img.shields.io/badge/Power%20Platform-ffffff?style=flat-square&logo=microsoft&logoColor=742774">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Dataverse-0d1117?style=flat-square&logo=microsoft&logoColor=4F9BE0">
-    <img alt="Dataverse" src="https://img.shields.io/badge/Dataverse-ffffff?style=flat-square&logo=microsoft&logoColor=0A2767">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Power%20BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C94C">
-    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-ffffff?style=flat-square&logo=powerbi&logoColor=E97627">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Entra%20ID-0d1117?style=flat-square&logo=azure&logoColor=50A6FF">
     <img alt="Entra ID" src="https://custom-icon-badges.demolab.com/badge/Entra%20ID-ffffff?style=flat-square&logo=azure&logoColor=0078D4">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/AWS-0d1117?style=flat-square&logo=aws&logoColor=FF9F47">
-    <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-ffffff?style=flat-square&logo=aws&logoColor=FF9900">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub%20Actions-0d1117?style=flat-square&logo=githubactions&logoColor=5CA8FF">
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-ffffff?style=flat-square&logo=githubactions&logoColor=2088FF">
   </picture>
 </div>
 
@@ -102,16 +111,30 @@ grow, solve real-world problems, and contribute both technically and as a person
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-ffffff?style=flat-square&logo=mongodb&logoColor=47A248">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=6E9FFF">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-ffffff?style=flat-square&logo=postgresql&logoColor=4169E1">
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=8798E6">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=docker&logoColor=2496ED">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F0724C">
     <img alt="Git" src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=F05032">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <sub>Background:</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Power%20Platform-0d1117?style=flat-square&logo=microsoft&logoColor=8A6FE8">
+    <img alt="Power Platform" src="https://img.shields.io/badge/Power%20Platform-ffffff?style=flat-square&logo=microsoft&logoColor=742774">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Dataverse-0d1117?style=flat-square&logo=microsoft&logoColor=4F9BE0">
+    <img alt="Dataverse" src="https://img.shields.io/badge/Dataverse-ffffff?style=flat-square&logo=microsoft&logoColor=0A2767">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Power%20BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C94C">
+    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-ffffff?style=flat-square&logo=powerbi&logoColor=E97627">
   </picture>
 </div>
 
@@ -149,13 +172,3 @@ grow, solve real-world problems, and contribute both technically and as a person
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffederico-paganini&label=Profile%20views&labelColor=0d1117&countColor=0d1117&style=flat-square&labelTextColor=8A94A6&countTextColor=58A6FF">
-    <img alt="Profile views" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffederico-paganini&label=Profile%20views&labelColor=ffffff&countColor=ffffff&style=flat-square&labelTextColor=57606a&countTextColor=0366d6">
-  </picture>
-</div>
-
