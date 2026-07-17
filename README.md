@@ -158,3 +158,4 @@ grow, solve real-world problems, and contribute both technically and as a person
     <img alt="Profile views" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffederico-paganini&label=Profile%20views&labelColor=ffffff&countColor=ffffff&style=flat-square&labelTextColor=57606a&countTextColor=0366d6">
   </picture>
 </div>
+
